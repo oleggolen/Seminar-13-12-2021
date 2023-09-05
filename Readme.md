@@ -14,6 +14,8 @@
 
 ![git_commit_example](https://www.brainstormcreative.co.uk/wp-content/uploads/view-unpushed-commits.png)
 
+>Я не конфликтный
+
 ### Git add
 Для добавления измений в коммит используется команда *git add*. Чтобы использовать команду *git add* напишите *git add <имя файла>*
 
